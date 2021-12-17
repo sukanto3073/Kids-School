@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/drawable/custom_shape.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_abcd.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_aye_bristi.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_bangla.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_number.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_vorholo_dorkholo.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_you_tube_player_view.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_youtube_play.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/activity_youtube_video_atagache.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/fragment_bangla.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/fragment_bangla_number.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/layout/fragment_english.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/mipmap-anydpi-v26/app_logo.xml" value="0.3828125" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/mipmap-anydpi-v26/app_logo_round.xml" value="0.3828125" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Shukanto/AndroidStudioProjects/kidsschool/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.221875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
