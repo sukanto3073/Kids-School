@@ -1,0 +1,2 @@
+# Kids-School
+Educational purpus
