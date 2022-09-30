@@ -30,6 +30,7 @@
             android:layout_margin="5dp"/>
         
     </LinearLayout>
+
     <FrameLayout
         android:id="@+id/fragment"
         android:layout_width="match_parent"

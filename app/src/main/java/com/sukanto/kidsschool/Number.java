@@ -5,13 +5,15 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import java.util.Objects;
+
 public class Number extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_number);
-        getSupportActionBar().setTitle("বাংলা সংখ্যা/ইংরেজি সংখ্যা");
+        Objects.requireNonNull(getSupportActionBar()).setTitle("বাংলা সংখ্যা/ইংরেজি সংখ্যা");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportFragmentManager().beginTransaction().replace(R.id.fragment,new BanglaFragment()).commit();
     }
